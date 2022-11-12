@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SurbhiAgrawal9
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning in coding Skills.
-- 💞️ I’m looking to collaborate on Project.
+- 👀 I’m looking to collaborate on Project.
+- 🌱 I’m currently learning in JAVA/HTML/CSS/JavaScript.
+- 💞️ I’m intrested in Coding.
 - 📫 How to reach me subhuagrawal786@gmail.com
 
 <!---
