@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @SurbhiAgrawal9
+<h1>Hi 👋 My name is Surbhi Agrawal</h1>
+- 👋 I’m @SurbhiAgrawal9
 - 👀 I’m looking to collaborate on Project.
 - 🌱 I’m currently learning in JAVA/HTML/CSS/JavaScript.
 - 💞️ I’m intrested in Coding.
