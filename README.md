@@ -1,6 +1,6 @@
-<h1>Hi 👋 My name is Surbhi Agrawal</h1>
+<h1>Hi 👋 My name is Reerri Wala</h1>
 - 👋 I’m @SurbhiAgrawal9<br>
-- 👀 I’m not looking to for any collaboration on Project.<br>
+- 👀 I’m looking for collaboration in kulfi business only .<br>
 - 🌱 I’m currently learning Bhojpuri<br>
 - 💞️ I’m not intrested in Coding don't waste my time.<br>
 - 📫 Don't dare to reach me on subhuagrawal786@gmail.com, i don't have time for these ok<br>
