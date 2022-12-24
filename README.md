@@ -1,4 +1,4 @@
-<h1>Hi 👋 My name is </h1>
+<h1>Hi 👋 My name is Surbhi Agrawal</h1>
 - 👋 I’m @SurbhiAgrawal9<br>
 - 👀 I’m learning MERN Stack and Data Structure Algorithms in Java for Algorithms<br>
 - 🌱 I'm open to collaborating on interesting projects <br>
