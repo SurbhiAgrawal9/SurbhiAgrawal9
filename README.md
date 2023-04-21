@@ -6,9 +6,9 @@
 - 📫 you can reach me on subhuagrawal786@gmail.com<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asitbiswas2001) 
-[![Leetcode](https://img.shields.io/badge/Leetcode-%23ffa116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/asit5581/)
-[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%23ffa116.svg?logo=Stackoverflow&logoColor=black)](https://stackoverflow.com/users/21557323)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/surbhi-agrawal-sa/) 
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23ffa116.svg?logo=leetcode&logoColor=black)](https:/https://leetcode.com/agrawal_surbhi/)
+[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%23ffa116.svg?logo=Stackoverflow&logoColor=black)](https:/https://stackoverflow.com/users/21702738/surbhi-agrawal)
 
 # 💫 About Me:
 I am looking to join an organization where innovation and creativity are a part of everyday operations.<br>
