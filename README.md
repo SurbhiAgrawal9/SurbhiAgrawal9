@@ -3,7 +3,7 @@ Hi 👋Surbhi  is Here<br>- 👋 I’m based in M.P, India<br>- 👀 I’m learn
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surbhi-agrawal-sa/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-agrawal-sa/) 
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23ffa116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/agrawal_surbhi/)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-%23ffa116.svg?logo=Stackoverflow&logoColor=black)](https://stackoverflow.com/users/21702738/surbhi-agrawal)
 
