@@ -1,4 +1,12 @@
 # 💫 About Me:
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SurbhiAgrawal9.SurbhiAgrawal9">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;_This+is+Surbhi+Agrawal....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 Hi 👋Surbhi  is Here<br>- 👋 I’m based in M.P, India<br>- 👀 I’m learning MERN Stack and Data Structure Algorithms in Java for Algorithms<br>- 🌱 I'm open to collaborating on interesting projects<br>- 💞️ ⚡ I am enthusiast about open source projects<br>- 📫 you can reach me on subhuagrawal786@gmail.com
 
 
