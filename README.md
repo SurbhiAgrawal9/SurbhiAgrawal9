@@ -9,6 +9,7 @@
 
 Hi 👋Surbhi  is Here<br>- 👋 I’m based in M.P, India<br>- 👀 I’m learning MERN Stack and Data Structure Algorithms in Java for Algorithms<br>- 🌱 I'm open to collaborating on interesting projects<br>- 💞️ ⚡ I am enthusiast about open source projects<br>- 📫 you can reach me on subhuagrawal786@gmail.com
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-agrawal-sa/) 
